@@ -4,6 +4,7 @@ CACHE MANIFEST
 CACHE:
 index.html
 https://fonts.googleapis.com/icon?family=Material+Icons
+https://fonts.googleapis.com/css?family=Roboto
 
 NETWORK:
 online.html
