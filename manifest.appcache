@@ -2,7 +2,8 @@ CACHE MANIFEST
 # TEST
 
 CACHE:
-index1.html
+index.html
+https://fonts.googleapis.com/icon?family=Material+Icons
 
 NETWORK:
 online.html
