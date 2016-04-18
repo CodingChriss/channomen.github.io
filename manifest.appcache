@@ -8,6 +8,7 @@ https://fonts.googleapis.com/css?family=Roboto
 
 NETWORK:
 online.html
+jquery.js
 
 FALLBACK:
 offline.html
