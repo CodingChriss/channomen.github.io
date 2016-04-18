@@ -2,9 +2,8 @@ CACHE MANIFEST
 # TEST
 
 CACHE:
-https://fonts.googleapis.com/icon?family=Material+Icons
-https://fonts.gstatic.com/s/materialicons/v14/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2
-https://fonts.googleapis.com/css?family=Roboto
+http://fonts.googleapis.com/icon?family=Material+Icons
+http://fonts.googleapis.com/css?family=Roboto
 index.html
 
 NETWORK:
